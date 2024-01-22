@@ -1,2 +1,1 @@
-![](https://raw.githubusercontent.com/knightmar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/knightmar/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![trophy](https://github-profile-trophy.vercel.app/?username=knightmar)](https://github.com/ryo-ma/github-profile-trophy)

@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knightmar" alt="knightmar" /></a> </p>
 
-- I’m working on [VirtualGamepad](https://github.com/knightmar/VirtualGamepad)
+- I’m working on [HadokenPrint](https://github.com/knightmar/HadokenPrint) for my school project
 
 - I’m currently learning **Rust**
 

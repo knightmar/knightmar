@@ -1,5 +1,6 @@
 # Presentation
 I'm a student at [EPITA](https://www.epita.fr), who loves programing and experimenting. 
+I'm also a member of diverse associations, among them, i'm a labmanager at l'Atelier, a maker lab, I'm also participating in Prologin staffing, an association that promotes informatics and computer science for all.  
 
 # My projects
 I'm currently working on multiples projects : 

@@ -22,8 +22,7 @@ I'm also a member of diverse associations, among them, i'm a labmanager at l'Ate
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=knightmar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=knightmar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![GitHub Contribution Card](https://github-contribution-card.vercel.app/api?username=knightmar&order_by=stars&combine_all_yearly_contributions=true)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=knightmar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

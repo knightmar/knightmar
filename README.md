@@ -21,10 +21,9 @@ I'm also a member of diverse associations, among them, i'm a labmanager at l'Ate
 ![](https://streak-stats.demolab.com/?user=knightmar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=knightmar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![GitHub Contribution Card](https://github-contribution-card.vercel.app/api?username=knightmar&order_by=stars&combine_all_yearly_contributions=true)
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=knightmar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Contribution Card](https://github-contribution-card.vercel.app/api?username=knightmar&order_by=contributions&limit=5&combine_all_yearly_contributions=true)
+
 
 ---
-[![](https://komarev.com/ghpvc/?username=knightmar&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=knightmar&abbreviated=true)
